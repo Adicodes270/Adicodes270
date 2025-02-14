@@ -1,3 +1,5 @@
+<img src="github_banner.jpg" alt="Github Profile Banner" width="100%" />
+
 # 💫 About Me:
 Im currently getting better at programming
 
