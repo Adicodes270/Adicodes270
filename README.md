@@ -23,3 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adicodes270&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/Adicodes270/Adicodes270/output/snake.svg" alt="Snake animation" />
+
+###
