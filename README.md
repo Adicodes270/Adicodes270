@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya , Im a programmer from India</h2>
+<h2 align="left">Hi 👋! My name is Aditya , I am a programmer from India</h2>
 
 ###
 <img src="banner.png" alt="GitHub Banner" width="100%" />
